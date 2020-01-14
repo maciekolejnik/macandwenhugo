@@ -16,10 +16,10 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  #favicon = "/images/favicon.ico"
   description = ""
   facebook = ""
-  twitter = "https://twitter.com"
+  twitter = ""
   instagram = "//www.instagram.com/macandwen/"
   youtube = ""
   github = ""

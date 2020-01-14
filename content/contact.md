@@ -8,4 +8,4 @@ menu: main
 
 ---
 
-If you wanna reach out to us for any reason, drop us an email at maciek@mprojekty.pl
+If you wanna reach out to us for any reason, drop us an email at macnwen@gmail.com. 
