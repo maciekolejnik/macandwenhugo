@@ -33,49 +33,49 @@ Our starting point was Aber Village, where limited parking is available in littl
 
 It's quite a big lake, so it's pretty impressive, but swimming is not allowed, as is typical for reservoirs. The best place to see it is definitely its north shore, where the dam and a few information plaques are also located. From there, we took a wide path/narrow road southward, along the east shore of Talybont.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210355.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210355.jpg)
 
 It's a really long, straight lane, surrounded by dense vegetation, slightly uphill at all times. Just as it starts getting monotonous, you reach the end of the forest, where the path becomes more exposed and views more exciting.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210358.jpg) *Escape from the forest celebrated with a peach*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210358.jpg) *Escape from the forest celebrated with a peach*
 
 A little more (slightly steeper) uphill and you reach an asphalt road, where you might get a hot-dog if you're hungry and lucky (we assume it's there on most summer weekends, not too expensive either btw).
 
 From there, we headed to the Lower Neuadd Reservoir, but to make it more exciting we decided to take a shortcut, which started with a steep ascent, with pretty sights at the top.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p72103621.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p72103621.jpg)
 
 Unfortunately, upon reaching the high point of the hill, we seemed to have lost the path and had to struggle for a while through long grass and uneven ground. The reward for going astray came in the form of berries, which were plentiful in these unexplored areas.
 
 The next challenge awaiting our fellowship were little rivers crossing our route. Luckily, the trip came towards the end of a heatwave in the UK, so the dried out waterways didn't even deserve to be called 'streams' - 'brook' seems more appropriate. Still, if you couldn't jump long enough, you'd get your feet wet and muddy, as can be seen below.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210370.jpg) *Jumping rivers is def not for poor short Wendy...*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210370.jpg) *Jumping rivers is def not for poor short Wendy...*
 
 Fortunately, having dealt with wet surprises, we eventually found our way, this time following a stream on a rugged path that took us straight to Lower Neuadd Reservoir.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210374.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210374.jpg)
 
 Did the shortcut save us time? Probably not. Did it save us distance? Not likely. Was it worth it? Undoubtedly yes. YOLO. For more serious expeditions though, we should probably equip ourselves with a physical map and/or invest in one of those apps with OS maps, rather than depend on Google Maps for directions. Lesson learned.
 
 Soon afterwards, we arrived at the reservoir, but something was not quite right; it didn't look like it was supposed to. We quickly realised that what's missing was... **water**. Well, not that there was no water, but there was a lot less than expected.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210379.jpg) *Water levels lower than usual*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210379.jpg) *Water levels lower than usual*
 
 Underwhelmed by what we saw, we decided we'd pass on the swimming, and instead rest, have food, dry our socks and continue to the last stage for the day, which was going to take us all the way to **Llyn Cwm Llwch** (yes, Welsh is a weird language), a glacial lake just below Corn Du (second highest peak in the park, very close to Pen y Fan).
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210393.jpg) *Steep, winding path leading to the ridge*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210393.jpg) *Steep, winding path leading to the ridge*
 
 A steep climb and a long, exposed ridge, with ever improving vistas took us there in mere 2 hours.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210399.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210399.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210405.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210405.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210409.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210409.jpg)
 
 As soon as we got sight of the lake, we knew it was a great **wild camping spot**. Surrounded from all sides (as lakes usually are), with a few flat areas just by the shore, proximity to park's highest peaks and berry bushes nearby, you couldn't have asked for a better place to pitch a tent.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7210428.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7210428.jpg)
 
 On the way, there's an obelisk commemorating **Tommy Jones**, a 5-year-old kid who got lost in the mountains in 1900, while hiking with his father. After a **29 day** long search, his body was found where the obelisk is now standing. Goes to show the power of the mountains (even as low as they are in the UK).
 
@@ -85,36 +85,36 @@ Although the water was not the cleanest or the warmest you could wish for, takin
 
 Anyway, sheep like grassy mountains a lot and apparently feel quite comfortable there so they are pretty much **everywhere**. And they bleat. A lot. Day and night. Nonstop. Beeeeee. Beeeee. Sleeping in nature, there you go. Great British wildlife.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220504.jpg) *Sheep. May they die in hell for waking us up at 6 am...*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220504.jpg) *Sheep. May they die in hell for waking us up at 6 am...*
 
 ### Day 2: Llyn Cwm Llwch -> Corn Du -> Pen y Fan -> Cribyn -> Fan y Big -> Aber Village
 
 Best way to start the second day of a backpacking trip after 6 hours of interrupted sleep? Well, we could think of better things than a 10 km run with 500 m elevation gain. But if you've got 1 litre of water between 5 people and another 20 km to walk, someone's got to make a sacrifice and run for resupply. Well, one could walk, but that would take too long, wouldn't it? At least a refreshing swim awaited at the completion of this important mission - thanks Maciek!!
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220439.jpg) *Morning bath*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220439.jpg) *Morning bath*
 
 With our bottles full and hopes high, we set off for what was supposed to be the icing on the cake of our trip. Four peaks and eternal glory awaited ahead, all we had to do was walk. And we did. As mentioned before, all the peaks are near each other, they're all pretty similar, but the views differ substantially. It goes pretty much like this: Climb. Admire. Drink water. Take photos. Descend. Repeat. The nice thing is that once you pass Pen y Fan, the number of people drastically decreases. And when you leave Fan y Big behind you, you'll barely see a human being for the next couple of hours. What you will see though, are sheep. Granted.
 
 Rather than rambling on about the beautiful scenery and our great adventures, we'll just leave you with some photos, since, as they say, a picture is worth a thousand words.
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220442.jpg) *The main path to Pen y Fan, starting at Storey Arms, as seen from Corn Du*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220442.jpg) *The main path to Pen y Fan, starting at Storey Arms, as seen from Corn Du*
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220445.jpg) *Happy kid*
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220457.jpg) *Admiring the scenery*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220445.jpg) *Happy kid*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220457.jpg) *Admiring the scenery*
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220465.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220465.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220474.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220474.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220480.jpg)
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220480.jpg)
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220485.jpg) *Formidable*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220485.jpg) *Formidable*
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220495.jpg) *Birthday girl*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220495.jpg) *Birthday girl*
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220496.jpg) *Doesn't that resemble y=min(0, sqrt(abs(x))\*sgn(x))?*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220496.jpg) *Doesn't that resemble y=min(0, sqrt(abs(x))\*sgn(x))?*
 
-![OLYMPUS DIGITAL CAMERA](https://macandwentravelling.files.wordpress.com/2018/08/p7220501.jpg) *Winding path*
+![](https://macandwentravelling.files.wordpress.com/2018/08/p7220501.jpg) *Winding path*
 
 ## Conclusion
 
