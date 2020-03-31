@@ -29,7 +29,7 @@ The Storey Arms -> Pen y Fan path makes for a really nice half-day hike, but we 
 
 # Our 2-days Circular route
 ## Day 1: Aber Village -> Talybont Reservoir -> Lower Neuadd Reservoir -> Llyn Cwm Llwch
-Our starting point was *Aber Village, where limited parking* is available in little bays along the main road (ours was near Yew Tree Cottage). From there, we headed south, towards Talybont Reservoir, which was supposed to be the first attraction of our Welsh weekend.
+Our starting point was **Aber Village, where limited parking** is available in little bays along the main road (ours was near Yew Tree Cottage). From there, we headed south, towards Talybont Reservoir, which was supposed to be the first attraction of our Welsh weekend.
 
 ### Talybont Reservoir
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p72103541.jpg) *Nice reflection, eh?*
@@ -95,12 +95,12 @@ Anyway, sheep like grassy mountains a lot and apparently feel quite comfortable 
 
 ## Day 2: Llyn Cwm Llwch -> Corn Du -> Pen y Fan -> Cribyn -> Fan y Big -> Aber Village
 
-Best way to start the second day of a backpacking trip after 6 hours of interrupted sleep? Well, we could think of better things than a 10 km run with 500 m elevation gain. But if you've got *1 litre of water between 5 people and another 20 km to walk*, someone's got to make a sacrifice and run for resupply. Well, one could walk, but that would take too long, wouldn't it? At least a refreshing swim awaited at the completion of this important mission - thanks Maciek!!
+Best way to start the second day of a backpacking trip after 6 hours of interrupted sleep? Well, we could think of better things than a 10 km run with 500 m elevation gain. But if you've got **1 litre of water between 5 people and another 20 km to walk**, someone's got to make a sacrifice and run for resupply. Well, one could walk, but that would take too long, wouldn't it? At least a refreshing swim awaited at the completion of this important mission - thanks Maciek!!
 
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220439.jpg) *Morning bath after a 10km water search run (Maciek our hero)*
 
 ### Conquering the four peaks
-With our bottles full and hopes high, we set off for what was supposed to be the icing on the cake of our trip. Four peaks and eternal glory awaited ahead, all we had to do was walk. And we did. As mentioned before, all the peaks are near each other, they're all pretty similar, but the views differ substantially. *It goes pretty much like this: Climb. Admire. Drink water. Take photos. Descend. Repeat.* The nice thing is that once you pass Pen y Fan, the number of people drastically decreases. And when you leave Fan y Big behind you, you'll barely see a human being for the next couple of hours. What you will see though, are sheep. Granted.
+With our bottles full and hopes high, we set off for what was supposed to be the icing on the cake of our trip. Four peaks and eternal glory awaited ahead, all we had to do was walk. And we did. As mentioned before, all the peaks are near each other, they're all pretty similar, but the views differ substantially. **It goes pretty much like this: Climb. Admire. Drink water. Take photos. Descend. Repeat.** The nice thing is that once you pass Pen y Fan, the number of people drastically decreases. And when you leave Fan y Big behind you, you'll barely see a human being for the next couple of hours. What you will see though, are sheep. Granted.
 
 Rather than rambling on about the beautiful scenery and our great adventures, we'll just leave you with some photos, since, as they say, a picture is worth a thousand words.
 
@@ -137,4 +137,4 @@ Go to Brecon Beacons in Wales, what are you waiting for?
 2. 10 peaks for all flavours: lazy, sporty, short, high, etc.
 3. Plenty of sheep: white, black, small, big, loud, etc.
 4. Best camping spot so far: fluffy grass and swimmable lake next to it
-5. And... don't make our mistake and *bring tons of water* - steep paths are hard!
+5. And... don't make our mistake and **bring tons of water** - steep paths are hard!
