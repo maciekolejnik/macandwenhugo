@@ -1,7 +1,7 @@
 ---
 title: "Backpacking in Bannau Brycheiniog"
 date: "2018-08-12"
-featured_image: "https://cdn.shopify.com/s/files/1/1029/8241/products/BANNAU_BRYCH_framed_etsy_large.jpg?v=1554122899"
+featured_image: "https://i.imgur.com/XqPPqD9.jpg"
 ---
 
 ##### 21st - 22nd July 2018 (Saturday - Sunday) + Wendy's birthday
