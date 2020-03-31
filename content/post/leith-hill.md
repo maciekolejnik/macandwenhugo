@@ -55,7 +55,7 @@ After that, however, for another 5 km or so, the path led along the main road, w
 
 ![IMG_0286](https://macandwentravelling.files.wordpress.com/2018/04/img_0286.jpg)
 
-## The King's Head Pub
+## The King's Head Pub to top up the day!
 
 And finally: pub recommendation. The one we went to was in Holmbury St Mary, it's called **The King's Head** (The KING'S HEAD ALE & KITCHEN on Google maps) and we can definitely recommend it. They have a nice garden in the backyard, so check it out especially if you will be having food. **Ales are cheap**.
 
