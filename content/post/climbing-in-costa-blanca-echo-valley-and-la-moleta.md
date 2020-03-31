@@ -1,7 +1,7 @@
 ---
 title: "Climbing in Costa Blanca - Echo Valley and La Moleta"
 date: "2018-05-22"
-coverImage: "p5030401.jpg"
+featured_image: "https://macandwentravelling.files.wordpress.com/2018/05/p5030433.jpg"
 ---
 
 ##### 4th - 6th May 2018 (Friday - Sunday)
