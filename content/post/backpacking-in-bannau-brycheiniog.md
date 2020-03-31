@@ -104,22 +104,22 @@ With our bottles full and hopes high, we set off for what was supposed to be the
 
 Rather than rambling on about the beautiful scenery and our great adventures, we'll just leave you with some photos, since, as they say, a picture is worth a thousand words.
 
-### Corn Du
+### I Corn Du
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220442.jpg) *The main path to Pen y Fan, starting at Storey Arms, as seen from Corn Du*
 
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220445.jpg) *Happy kid*
 
-### Pen y Fan
+### II Pen y Fan
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220457.jpg) *Admiring the scenery*
 
-### Crybin
+### III Crybin
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220465.jpg)
 
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220474.jpg)
 
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220480.jpg)
 
-### Fan y Big
+### IV Fan y Big
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220485.jpg) *Formidable*
 
 ![](https://macandwentravelling.files.wordpress.com/2018/08/p7220495.jpg) *Birthday girl*
@@ -134,7 +134,7 @@ Rather than rambling on about the beautiful scenery and our great adventures, we
 Go to Brecon Beacons in Wales, what are you waiting for?
 
 1. Breathtaking views for those Instagrammers out there
-2. 10 peaks for all flavours: lazy, sporty, short, high, etc.
+2. **10 peaks** for all flavours: lazy, sporty, short, high, etc.
 3. Plenty of sheep: white, black, small, big, loud, etc.
-4. Best camping spot so far: fluffy grass and swimmable lake next to it
+4. **Best camping spot** so far: fluffy grass and swimmable lake next to it
 5. And... don't make our mistake and **bring tons of water** - steep paths are hard!

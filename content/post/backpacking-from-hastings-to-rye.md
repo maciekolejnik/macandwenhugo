@@ -10,7 +10,7 @@ The first heat wave of 2018 stimulated us to go for our first backpacking weeken
 
 # Hastings
 
-We spent most of Saturday in Hastings beaching, walking, chilling, gaming, eating and ~~drinking beer beering~~. In the process, we discovered a few things which might help you enjoy the city fully, should you go there some time.
+We spent most of Saturday in Hastings beaching, walking, chilling, gaming, eating and ~~drinking beer~~ beering. In the process, we discovered a few things which might help you enjoy the city fully, should you go there some time.
 
 ## Shingle beach
 The beach is mostly a **shingle beach**, i.e., armoured with pebbles, which means that you get a free foot massage if you're brave enough to walk barefoot (we just saved you £40). Jokes aside though, if sunbathing on stones isn't your thing, there are some patches of sand here and there, seemingly more so closer to the pier. On the other hand, if you like it more peaceful, with fewer people around you, go to **St Leonards** beach, which strikes a good balance between proximity to the city centre and remoteness. And if you're a fan of Greek cuisine, find a spot near Royal Victoria Hotel, where you can find a food truck with really tasty **souvlaki** (it gets busy around lunch time so go early/late to avoid a long wait).
@@ -40,22 +40,22 @@ In summary, there's really **three things** you should be doing in Hastings: **o
 
 The route to Rye can essentially be divided into two parts: it's great until Pett Level Beach and average afterwards.
 
-# Day 1: Hastings to Ecclesbourne Reservoir
+## Day 1: Hastings to Ecclesbourne Reservoir
 
 This stage is really cool due to compelling views, varied terrain, splendid houses and wild beaches. At times, you'll be walking just by the edge of the cliff, other times you might need to take an inland detour, yet another time you'll get a chance to get right down to the sea level and have a swim. It also gets quite muddy initially, especially on the path by Ecclesbourne Reservoir. **We recommend taking an alternative route closer to the sea.** There's plenty of different possible paths and as long as you don't get too far from the sea, you won't go astray.
 
-## Random wild camping spot
+### Random wild camping spot
 ![](https://macandwentravelling.files.wordpress.com/2018/06/p4220098.jpg) *A bit random wild camping spot. That's what happens when you leave it until late...*
 
-# Day 2: to Pett Level and then, to Rye
-## Fairlight Glen Naturist Beach (...)
+## Day 2: to Pett Level and then, to Rye
+### Fairlight Glen Naturist Beach (...)
 A must stop place halfway to Pett Level is Fairlight Glen Naturist Beach. Don't get put off by the sign warning you of cliff falls - just be careful not to slip on your way down.
 
-![](https://macandwentravelling.files.wordpress.com/2018/06/p4220103.jpg) *We did go there... BADASSES (in Sainsbury bags...)!*
+![](https://macandwentravelling.files.wordpress.com/2018/06/p4220103.jpg) *We did go there... BADASSES (with Sainsbury bags...)!*
 
 If you're lucky, you might even get to see some naked people, and if you're very lucky, you might get to see old perverts staring at the naked people. Gross! Anyway, what you're guaranteed to see is a remote beach with plenty of big stones near the water and even more of very coarse-grained sand further back. Great place for a swim!
 
-## Fairlight Cove
+### Fairlight Cove
 ![](https://macandwentravelling.files.wordpress.com/2018/06/p4220111.jpg)
 
 ![](https://macandwentravelling.files.wordpress.com/2018/06/p4220130.jpg)
@@ -69,7 +69,7 @@ As you approach Fairlight Cove, you'll have to diverge a little inland, but you'
 
 ![](https://macandwentravelling.files.wordpress.com/2018/06/p4220132.jpg) *Fabulous?*
 
-## Pett Level
+### Pett Level
 
 This stage starts with a looong, unexciting walk along the Pett Level Beach. We would like to suggest an inland alternative, but unfortunately, we're not aware of one. There's a network of drainage channels stretching almost a mile inland, which makes a detour problematic. If you, however, do decide to attempt to find a path through the channels and are successful, feel free to share it in the comments!
 
@@ -106,7 +106,7 @@ As mentioned above, there's loads of pubs in Rye (relative to its size), but the
 
 # Conclusion
 
-Although the water is usually cold, wind too strong, clouds too many and beaches generally lack sand, **south coast of England has a lot to offer**: 
+Although the water is usually cold, wind too strong, clouds too many and beaches generally lack sand, **south coast of England has a lot to offer**:
 
 - For gay party lovers - Brighton,
 - for white cliff enthusiasts - Dover,
