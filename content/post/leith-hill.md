@@ -6,7 +6,7 @@ featured_image: "https://macandwentravelling.files.wordpress.com/2018/04/img_028
 
 Leith Hill, at 294 m above sea level, is the highest point in Surrey and second highest in south-east England. Doesn’t sounds impressive? Well, it’s as high as the highest point in the whole of Lithuania! And higher than the highest ‘peaks’ in the Vatican (perhaps unsurprisingly), Monaco, Malta and Denmark! Jokes aside though, proximity to London and picturesque setting makes it for an excellent day trip from the capital. It’s easiest to reach by car, but train is an option too (Southern to Holmwood).
 
-# A perfect 1/2-day hike
+# A perfect half-day hike
 ## Starting at Gomshall
 There are many possible starting points: Holmbury St Mary or Abinger Common would make for an easy walk (5-10 km round trip), Holmwood, Peaslake or Holmbury Hill (14-18 km) provide a little longer route while starting in Shere, Gomshall or Dorking requires a more substantial effort. Still, it’s pretty flat most of the time, so you should be fine regardless where you start. **We began in Gomshall** (can park for free in one of the small streets, eg. New Rd) **and did around 24 km total**.
 
@@ -38,6 +38,7 @@ Another thing worth mentioning is the number of **mountain bikers** in the area.
 
 ![IMG_0956](https://macandwentravelling.files.wordpress.com/2018/04/img_0956.jpg) *White trainers are NOT recommended for muddy hikes*
 
+## Leith Hill
 When it comes to the top of Leith Hill itself, there's not much there, except a **tower** (you can go on top, but how much better can the view be? plus it costs 4 quid) with a little kiosk (serving some limited food \[sandwiches, pies...\] and drinks) and some cool trees.
 
 ![IMG_1012](https://macandwentravelling.files.wordpress.com/2018/04/img_1012.jpg) *Tree 1*

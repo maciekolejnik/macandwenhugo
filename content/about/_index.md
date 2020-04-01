@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: ""
-featured_image: "https://i.imgur.com/gxByVDt.jpg"
+featured_image: "https://i.imgur.com/gxByVDt.jpg?3"
 ---
 
 {{< figure src="/images/newLogo.png">}}
