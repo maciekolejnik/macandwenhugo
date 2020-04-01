@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 10 
+Paginate = 24 
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   description = ""
   facebook = ""
   twitter = ""
-  instagram = "//www.instagram.com/macandwen/"
+  instagram = "https://www.instagram.com/macandwen/"
   youtube = ""
   github = ""
   gitlab = ""
