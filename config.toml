@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 24 
 googleAnalytics = "UA-48542691-2"
 enableRobotsTXT = true
+disqusShortname = macandwen
 
 [sitemap]
   changefreq = "monthly"
