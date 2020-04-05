@@ -1,7 +1,9 @@
 ---
 title: "A day in Bath"
-date: "2020-01-24"
+publishdate: "2020-04-04"
+date: "2020-01-18"
 featured_image: "https://i.imgur.com/yAlIABu.jpg"
+small_image: "https://i.imgur.com/NPmCy95.jpg"
 draft: true
 ---
 

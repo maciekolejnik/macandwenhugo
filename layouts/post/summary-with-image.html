@@ -1,0 +1,24 @@
+<article class="bb b--black-10">
+  <a class="db no-underline dark-gray dim" href="{{ .Permalink }}">
+    <div class="flex flex-column">
+      {{ $image := .Params.small_image }}
+      {{ if not $image }}
+      {{ $image = .Params.featured_image }}
+      {{ end  }}
+      {{ if $image }}
+        <div class="mb4 mb0-ns w-100">
+          <img src="{{ $image }}" class="db" alt="image from {{ .Title }}">
+        </div>
+      {{ end }}
+      <div class="w-100 pl3">
+        <h2 class="f3 fw1 mt3 mb1 athelas mt0 lh-title">{{ .Title }}</h1>
+        <h3 class="f5 fw1 mt0 san-francisco silver">{{ .PublishDate.Format "January 2, 2006" }}</h3>
+       <!--  <div class="f6 f5-l lh-copy nested-copy-line-height">
+          {{ .Summary }}
+        </div> -->
+        {{/* TODO: add author
+        <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
+      </div>
+    </div>
+  </a>
+</article>
