@@ -4,8 +4,6 @@ date: "2018-10-24"
 featured_image: "https://imgur.com/ETl6zYv.jpg"
 ---
 
-##### 27th - 29th August 2018 (Monday - Wednesday)
-
 To start Poznań is not Potsdam. Potsdam is in Germany and has a beautiful castle; Poznań is a Polish city located west of Warsaw. It's a student city with very cheap Ryanair flights coming here, so perfect for a weekend escape!
 
 # 1\. See the Billy Goats at midday
@@ -19,7 +17,7 @@ Every day at noon, on the east side of the main square, two billy goats emerge f
 Pierogi. Gofry. Lody. Zupa. Kebab. Schabowy. If these words mean anything to you, you are already one step ahead from the uncultured ones who don't know anything about exquisite Polish cuisine. Of course, the best place to try these delicatessens is at babcia's (grandma's) house but if you don't have a special friend \[i.e. get a Polish boy/girlfriend\], then Poznań has good restaurants to taste the cheap nice food! Some recommendations:
 
 - **Pierożak Pierogarnia** - you can purchase very cheap individual pierogis (z wody = boiled), choose your flour, topping and filling. Cooks are constantly making pierogi in front of you!
-    
+
 - **Na Winklu** - great for pierogi (z pieca = oven),  big portions, amazing piece of schabowy meat!
 
 # 3\. See some murals
@@ -28,9 +26,9 @@ We are not going to tell you where these murals are, go to Poznań and keep your
 
 ![](https://macandwentravelling.files.wordpress.com/2018/09/p8270734.jpg)*Entering the psychiatric centre of love*
 
-![](https://macandwentravelling.files.wordpress.com/2018/09/p8270744.jpg) 
+![](https://macandwentravelling.files.wordpress.com/2018/09/p8270744.jpg)
 
-![](https://macandwentravelling.files.wordpress.com/2018/09/p8270755.jpg) 
+![](https://macandwentravelling.files.wordpress.com/2018/09/p8270755.jpg)
 
 ![](https://macandwentravelling.files.wordpress.com/2018/09/p8270761.jpg)
 
@@ -72,7 +70,7 @@ Have you seen "The Imitation Game"? That film in which Benedict Cumberbatch bril
 
 No matter if you are a shopping addict or an architectural design enthusiast, you should visit the shopping centre called Stary Browar. Actually, it's half a shopping centre, half art gallery, following an 'art along business' principle. It was built in 2003 and we must admit it's pretty cool for a shopping centre. Possibly the most elegant shopping centre we've seen so far. And The International Council of Shopping Centers evidently shares this view as they selected Stary Browar to be the **Best Shopping Centre in the World** in the category of medium-sized commercial buildings.
 
-# ![](https://macandwentravelling.files.wordpress.com/2018/09/p8280949.jpg) 
+# ![](https://macandwentravelling.files.wordpress.com/2018/09/p8280949.jpg)
 ![](https://macandwentravelling.files.wordpress.com/2018/09/p8280955.jpg)
 
 # 8\. Climb Bishop Jordan's bridge (Most Biskupa Jordana)

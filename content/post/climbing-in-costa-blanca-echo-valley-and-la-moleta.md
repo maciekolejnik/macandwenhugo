@@ -4,8 +4,6 @@ date: "2018-05-22"
 featured_image: "https://macandwentravelling.files.wordpress.com/2018/05/p5030433.jpg"
 ---
 
-##### 4th - 6th May 2018 (Friday - Sunday)
-
 This is the first post in a series about **climbing**, which has become our big hobby in the recent times (inspired by Alex Honnold free soloing El Capitan - google it if you haven't heard!). After months of practice in the climbing gym, the time has come to test our skills outdoors. Having already planned a holiday on the Spanish east coast, we were pleasantly surprised to find out that Costa Blanca is also a popular destination for climbers. Most go there in the winter (season runs from roughly October to April) since lower temperatures are better for climbing (that's why some climbing gyms are actually really cold inside!). We went in May and were quite lucky - it was unusually cold for that time in Spain - perfect for climbing! Before we describe our experiences and give some useful tips for those wanting to climb in Costa Blanca and unwilling to spend **£20 for a guidebook (the Rockfax one is very good they say)**, we give a brief introduction to this beautiful sport (feel free to skip if you know what a quickdraw is).
 
 # Rock climbing 101

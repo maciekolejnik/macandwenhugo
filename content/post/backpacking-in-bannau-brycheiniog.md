@@ -4,8 +4,6 @@ date: "2018-08-12"
 featured_image: "https://i.imgur.com/XqPPqD9.jpg"
 ---
 
-##### 21st - 22nd July 2018 (Saturday - Sunday) + Wendy's birthday
-
 'What the hell is Bannau Brycheiniog?' you're probably wondering... Well, if that's the case, then we succeeded in drawing your attention to this post. Now, before we explain its meaning, let us... just joking, no more stupid tricks. Bannau Brycheiniog is a Welsh name of a national park in the south of Wales, called **Brecon Beacons** in English.  In this post, we try to convince you that it's a nice place to go to. We concentrate on the central part of the park, comprising many of its highest peaks, including the highest one, **Pen y Fan** (886 m), and we mostly write about hiking and camping, which is what we like doing best. Having said that, Brecon Beacons has a lot more to offer, including **waterfalls** you can look at from behind (near Ystradfellte), beautifully set **ruins** (Carreg Cennen Castle) and spectacular **caves** (Dan-yr-Ogof). Plus horse riding, bird watching, mountain biking and star gazing (designated International Dark Sky Reserve). Chances are, whatever your hobby, you won't get bored.
 
 # In English, Brecon Beacons

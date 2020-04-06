@@ -4,8 +4,6 @@ date: "2018-08-01"
 featured_image: "https://macandwentravelling.files.wordpress.com/2018/06/p4220111.jpg"
 ---
 
-##### 21st - 22nd April 2018 (Saturday - Sunday)
-
 The first heat wave of 2018 stimulated us to go for our first backpacking weekend trip that year. Having very recently seen Rye ranked as one of the cutest small towns in the UK  and recognising Hastings because of the 1066 battle, we thought a coastal hike from the latter to the former would make for a great weekend. And it did!
 
 # Hastings

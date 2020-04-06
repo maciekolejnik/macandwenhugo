@@ -4,8 +4,6 @@ date: "2018-10-22"
 featured_image: "https://i.imgur.com/UKAXdi1.jpg"
 ---
 
-##### Easter Break 2018
-
 The great thing about going to uni in the UK is the month-long Easter break, especially when there are no exams or deadlines on return. It allowed us to visit many different places and this year, Murcia was one of them. The main reason why we ended up there was a music festival called WAM Estrella de Levante, with **Alt-J** as one of the headliners. Realising that we might not get another chance to visit Murcia in foreseeable future, we decided to spend a day in this seventh largest Spanish city. Incidentally, we also stayed in another part of Region de Murcia, a coastal resort called La Manga, a few days before that. Below, we describe the highlights of our vacation and let you decide whether it's a place worth seeing.
 
 ![Map of the Murcia region](http://www.centrodemediacionmurcia.es/images/mapamediadoresmurcia.jpg)
