@@ -4,7 +4,6 @@ publishdate: "2020-04-04"
 date: "2020-01-18"
 featured_image: "https://i.imgur.com/yAlIABu.jpg"
 small_image: "https://i.imgur.com/NPmCy95.jpg"
-draft: true
 ---
 
 As most of our readers surely know, United Kingdom in not the sunniest place on the planet. Amount and frequency of rainfall differs greatly between areas, **ranging from** an unimpressive **580mm of average annual precipitation in London** (with a little over 100 rainy days per year on average) **to 3500mm** (and more than 220 wet days) **in a [small village](https://en.wikipedia.org/wiki/Seathwaite,_Allerdale) in Lake District.** To put that in context, Rome gets on average 800mm of rainfall per year, for New York it's over 1100mm, Paris is 640mm, Berlin - 590mm, and finally, Barcelona - 640mm. Sure, European cities with lower annual rainfall than London do exist, take Madrid (436mm) or Athens (365mm!) as examples, but, on the whole, **the numbers don't exactly fit the rainy reputation most of us hold of London**.
