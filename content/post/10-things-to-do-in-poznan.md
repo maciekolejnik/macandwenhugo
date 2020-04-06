@@ -1,6 +1,6 @@
 ---
 title: "10 Things To Do in Poznań"
-date: "2018-10-24"
+publishdate: "2018-10-24"
 featured_image: "https://imgur.com/ETl6zYv.jpg"
 ---
 
