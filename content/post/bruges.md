@@ -4,8 +4,6 @@ date: "2018-04-28"
 featured_image: "https://macandwentravelling.files.wordpress.com/2018/04/p41005171.jpg"
 ---
 
-##### 9th - 10th April 2018 (Monday - Tuesday)
-
 Bruges (Brugge) is the capital and largest city of the province of West Flanders in the Flemish Region of Belgium (yes, their official language is Flemish \[something similar to Dutch\], not French! but let's say they are not friends with neither of them historically). Its city centre is surrounded by canals protected by four town gates and it is sometimes referred to as "The Venice of the North" or even "EU's Oxbridge".
 
 The best way to get to know the city is by either watching the film "In Bruges" or joining the well known **"Free walking tours".** These are now spread all over the world and they are usually run by locals who try to make the tour as interesting as possible so that at the end, you can thank them by a voluntary tip \[approx. 5€ pp seems standard\]. As a surprise, most free guided tours in Bruges were offered in Spanish (how many Spaniards can there be?) except the one called **Legends of Bruges** with **the meeting point** at **Grote Markt**, which also had an English version. It lasted 2 hours, and, honestly speaking, wasn't awesome but still "interestingish". Anyway, below is a recollection of the few fun facts we've learnt from the tour or other sources.

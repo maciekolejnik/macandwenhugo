@@ -4,8 +4,6 @@ date: "2018-04-11"
 featured_image: "https://macandwentravelling.files.wordpress.com/2018/04/img_3805.jpg"
 ---
 
-##### 1 - 2 July 2017 (Sat-Sun)
-
 With the excuse of end-of-term and after successfully completing 10+ EXAMS (tough EE life), we headed to the west of UK in search of some waves.
 
 # Round train trip London Paddington to Newquay
