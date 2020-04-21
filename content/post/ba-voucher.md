@@ -1,6 +1,6 @@
+---
 title: "Be aware of the Future Travel Voucher Application from British Airways"
 publishdate: "2020-04-21"
-date: "2020-04-17"
 featured_image: "https://i.imgur.com/6URuHWP.png"
 small_image: "https://i.imgur.com/PQ53sCw.png"
 ---
@@ -9,7 +9,7 @@ small_image: "https://i.imgur.com/PQ53sCw.png"
 
 Before you apply for a Future Travel Voucher from British Airways, you should know the following things that the official website hides from you:
 
-1. It's a voucher **not a e-voucher**, so you need to call the contact center to redeem it (expect long waiting hours)
+1. It's a voucher **not a eVoucher**, so you need to call the contact center to redeem it (expect long waiting hours)
 2. They **charge extra** on top of the flight price for the services of booking with the voucher.
     - Let's say your voucher is worth 70 euros and you want to purchase a flight worth 55 euros. You'd think that the voucher would cover it but... it doesn't! They even ask you to pay 15 euros extra as the total price becomes 85 euros. In summary, **30 euros extra for the service charge from a 55 euros flight...**
 3. **One voucher per trip.** Assuming that you might end up with multiple vouchers like us, you would hope to cover the remaining fee with another voucher but this is not possible.
