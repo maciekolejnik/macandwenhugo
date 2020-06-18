@@ -7,7 +7,7 @@
       {{ .Content }}
     </section>
     <aside class="flex-ns flex-wrap items-center justify-around mt5">
-      {{ range .Paginator.Pages }}
+      {{ range .Paginator.Pages.ByPublishDate.Reverse }}
         <div class="relative w-100 w-30-l mb4 bg-white">
           {{/*
           Note we can use `.Render` here for items just in this section, instead of a partial to pull in items for the list page. https://gohugo.io/functions/render/
