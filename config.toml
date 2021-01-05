@@ -1,7 +1,7 @@
 baseURL = "http://macandwen.com/"
 languageCode = "en-us"
 title = "Mac & Wen"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -22,7 +22,7 @@ disqusShortname = "macandwen"
   facebook = ""
   twitter = ""
   instagram = "https://www.instagram.com/macandwen/"
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UC22DEZV2YfEbcJpUKOB7NOA"
   github = ""
   gitlab = ""
   linkedin = ""
@@ -32,3 +32,6 @@ disqusShortname = "macandwen"
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 10
+
+[markup.goldmark.renderer]
+  unsafe= true
