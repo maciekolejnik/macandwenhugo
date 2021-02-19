@@ -1,5 +1,5 @@
 ---
-title: "El Realet Ridge"
+title: "Conquering El Realet Ridge"
 publishdate: "2021-02-19"
 date: "2020-02-05"
 featured_image: "https://macandwen-media.s3.eu-west-2.amazonaws.com/el-realet-ridge/cover.jpeg"
