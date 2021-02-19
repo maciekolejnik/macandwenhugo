@@ -18,11 +18,15 @@ small_image: "https://i.imgur.com/EUXP0D0.jpg"
 
 ## Strava
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4535503858/embed/8a0f087c605f571564b66ec7565a92db43c36d82'></iframe>
+<div class="strava-container">
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/4535503858/embed/8a0f087c605f571564b66ec7565a92db43c36d82'></iframe>
+</div>
 
 ## Video
 
+<div class="youtube-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ckuke_o3ORU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Description
 

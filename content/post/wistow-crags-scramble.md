@@ -17,7 +17,9 @@ summary: "A moderately difficult scramble in Lake District. Suitable for scrambl
 
 **Strava**: 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3532309487/embed/baee1e3b23907f44bf20331ebb66ff5058d1a518'></iframe>
+<div class="strava-container">
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3532309487/embed/baee1e3b23907f44bf20331ebb66ff5058d1a518'></iframe>
+</div>
 
 Suitable for scrambling beginners/novices (ideally with some rock climbing experience) who are looking to verify and improve their protection techniques. 
 

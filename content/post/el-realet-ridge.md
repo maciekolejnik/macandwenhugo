@@ -1,5 +1,5 @@
 ---
-title: "Conquering the El Realet Ridge"
+title: "El Realet Ridge"
 publishdate: "2021-02-19"
 date: "2020-02-05"
 featured_image: "https://macandwen-media.s3.eu-west-2.amazonaws.com/el-realet-ridge/cover.jpeg"
@@ -15,8 +15,9 @@ El Realet is the first section of the majestic Castellets Ridge, a very distinct
 
 ## Strava
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src="https://www.strava.com/activities/4742283908/embed/19a4366a421f3e829ed69ae85d4ba33f732af25c"></iframe>
-
+<div class="strava-container">
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src="https://www.strava.com/activities/4742283908/embed/19a4366a421f3e829ed69ae85d4ba33f732af25c"></iframe>
+</div>
 
 Few things to note (they will make more sense after you read the post below): 
 
@@ -30,11 +31,13 @@ Few things to note (they will make more sense after you read the post below):
 We actually made two videos: 
 
 - a short one for people who just wanna see what we've been up to:  
+<div class="youtube-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DCHku20TDjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 - a longer one for ~~people~~ climbers who wanna tackle El Realet Ridge themselves:  
+<div class="youtube-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7UXuIhBT0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 ## Equipment
 

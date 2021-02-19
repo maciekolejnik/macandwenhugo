@@ -114,7 +114,9 @@ The weather has not improved much by half-way point of the trip and temptation w
 
 With its pyramid-like shape, Great Gable is one of the more iconic mountain tops of the region. It is also the closest peak to Styhead Tarn, so we felt we had to climb it sooner or later during the trip. 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3532308787/embed/2f408943059c614f30499b5d966edae9f994e0ec'></iframe>
+<div class="strava-container">
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3532308787/embed/2f408943059c614f30499b5d966edae9f994e0ec'></iframe>
+</div>
 
 Initial ascent was actually quite pleasurable, despite the conditions; helped by fine views, big boulders on both sides of the path (scrambling practice) and lack of other human beings within 2 mile radius.
 
@@ -140,7 +142,9 @@ With Great Gable ticked off the list, it was time to take care of England's high
 
 Overall, it was a short but intense hike and we enjoyed it very much. But then, our perception might have been a little skewed due to our prior struggles. We were so relieved that the wind settled down that we were probably seeing the world through rose-tinted glasses. We are likely going to write a separate post about climbing Scafell Pike so look out for that (we pretty much walked all various paths leading to the peak). For those interested in the route, below is a preview.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3532309006/embed/f6a4d7a76792d6c4c3b66ce4827a0a15aaeb3455'></iframe>
+<div class="strava-container">
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3532309006/embed/f6a4d7a76792d6c4c3b66ce4827a0a15aaeb3455'></iframe>
+</div>
 
 Note that near the top, we diverged a little to make the route a little more exciting. If you were to follow our path but didn't feel like scrambling, you should keep to the left and proceed along the obvious way. It still involves some rocks and steep terrain, but nothing that a ten year old kid couldn't climb.
 

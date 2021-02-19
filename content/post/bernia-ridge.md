@@ -14,13 +14,18 @@ small_image: "https://i.imgur.com/9ziHO3c.jpg"
 
 Started late.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4057932986/embed/661bcc0cfd66ecedc6f2182cfa5202f0b84aea7b'></iframe>
+<div class="strava-container">
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/4057932986/embed/661bcc0cfd66ecedc6f2182cfa5202f0b84aea7b'></iframe>
+</div>
 
 ### Video
 
 It's the first time we did that, so please be understanding. Anyway, for those who prefer watching to reading, here is a short clip outlining how to go about climbing Bernia.
 
+<div class="youtube-container">
 <iframe width="560" height="315" src='https://www.youtube.com/embed/Le84WqnLRLE' frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 # Logistics
 

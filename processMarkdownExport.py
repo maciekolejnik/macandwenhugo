@@ -60,17 +60,17 @@ while lineIndex < totalLines:
 	inLine = mdInContent[lineIndex]
 	imageURI = r'[-a-zA-Z0-9()@:%_\+.~#?&\/=]*\/([-a-zA-Z0-9()@:%_]+\.[a-z]{1,6})'
 	if inLine.startswith("<iframe "):
-		match = re.search(r'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/=]*)', inLine)
+		match = re.search(r'https?:\/\/(www\.)?([-a-zA-Z0-9@:%._\+~#=]{1,256})\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/=]*)', inLine)
+		assert match is not None
 		url = match.group()
-		print("url")
-		print(url)
-		outLine = re.sub(r'src=(\'|\")\[.+\]\(.+\)(\'|\")', "src=\"" + url + "\"", inLine) + "\n"
+		source = match.group(2)
+		iframeUpdated = re.sub(r'src=(\'|\")\[.+\]\(.+\)(\'|\")', "src=\"" + url + "\"", inLine)
+		div = "<div class=\"" + source + "-container\">\n"
+		outLine = div + iframeUpdated + "</div>\n"
 	elif re.match(r'!\[.+\]\(.+\)', inLine):
 		match = re.search(imageURI, inLine)
 		if match:
 			filename = match.group(1)
-			print("filename")
-			print(filename)
 			imageURL = generateImageURL(folderName, filename)
 			output += "![](" + imageURL + ")\n"
 			# check if image has description, if it does fix

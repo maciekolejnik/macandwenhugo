@@ -18,6 +18,7 @@ disqusShortname = "macandwen"
 
 [params]
   #favicon = "/images/favicon.ico"
+  custom_css = ["css/custom.css"]
   description = ""
   facebook = ""
   twitter = ""
