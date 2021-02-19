@@ -1,0 +1,42 @@
+.youtube-container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+}
+
+.youtube-container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+
+.youtube-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 620px) {
+  .strava-container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+}
+
+.strava-container::after {
+    padding-top: 68.64%;
+    display: block;
+    content: '';
+}
+
+.strava-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+}
+
