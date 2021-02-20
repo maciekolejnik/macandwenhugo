@@ -25,9 +25,7 @@ small_image: "https://i.imgur.com/eI1A5Jo.jpg"
 
 ## Video
 
-<div class="youtube-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGtu_oox3zg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube ZGtu_oox3zg >}}
 
 ## Description
 

@@ -22,10 +22,7 @@ Started late.
 
 It's the first time we did that, so please be understanding. Anyway, for those who prefer watching to reading, here is a short clip outlining how to go about climbing Bernia.
 
-<div class="youtube-container">
-<iframe width="560" height="315" src='https://www.youtube.com/embed/Le84WqnLRLE' frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{< youtube Le84WqnLRLE >}}
 
 # Logistics
 
