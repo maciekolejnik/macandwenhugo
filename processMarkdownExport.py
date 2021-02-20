@@ -40,8 +40,8 @@ def retrieveTitle(titleLine):
 title = retrieveTitle(mdInContent[0])
 publishdate = datetime.today().strftime('%Y-%m-%d')
 activityDate = args.activityDate
-coverImgURL = generateImageURL(folderName, "cover.jpeg")
-smallImgURL = generateImageURL(folderName, "small.jpeg")
+coverImgURL = generateImageURL(folderName, "cover.jpg")
+smallImgURL = generateImageURL(folderName, "small.jpg")
 
 output = generateFrontMatter(title, publishdate, activityDate, coverImgURL, smallImgURL)
 
@@ -59,6 +59,7 @@ output += "\n"
 while lineIndex < totalLines:
 	inLine = mdInContent[lineIndex]
 	imageURI = r'[-a-zA-Z0-9()@:%_\+.~#?&\/=]*\/([-a-zA-Z0-9()@:%_]+\.[a-z]{1,6})'
+	# check if it's iframe
 	if inLine.startswith("<iframe "):
 		match = re.search(r'https?:\/\/(www\.)?([-a-zA-Z0-9@:%._\+~#=]{1,256})\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&\/=]*)', inLine)
 		assert match is not None
@@ -67,19 +68,32 @@ while lineIndex < totalLines:
 		iframeUpdated = re.sub(r'src=(\'|\")\[.+\]\(.+\)(\'|\")', "src=\"" + url + "\"", inLine)
 		div = "<div class=\"" + source + "-container\">\n"
 		outLine = div + iframeUpdated + "</div>\n"
+	# check if it's image
 	elif re.match(r'!\[.+\]\(.+\)', inLine):
 		match = re.search(imageURI, inLine)
 		if match:
 			filename = match.group(1)
 			imageURL = generateImageURL(folderName, filename)
-			output += "![](" + imageURL + ")\n"
-			# check if image has description, if it does fix
-			if (lineIndex+2 < totalLines):
-				lineAfter = mdInContent[lineIndex+2].rstrip()
-				# selection criteria - rather short and no dot at the end
-				if len(lineAfter) < 100 and re.match(r'[A-Za-z][^.]*', lineAfter):
-					output += "*" + lineAfter + "*\n"
-					lineIndex += 2
+			# we require every image to at least have alt description
+			# which should come in between {{}}
+			assert lineIndex+2 < totalLines # make sure there's a caption
+			# image caption should be of form 'text {{altDesc}}'
+			captionLine = mdInContent[lineIndex+2].rstrip()
+			captionMatch = re.match(r'(.*){{(.+)}}', captionLine)
+			assert captionMatch is not None
+			caption = captionMatch.group(1).rstrip()
+			altDescription = captionMatch.group(2).rstrip()
+			assert len(altDescription) > 0
+			# if (lineIndex+2 < totalLines):
+			# 	lineAfter = mdInContent[lineIndex+2].rstrip()
+			# 	# selection criteria - rather short and no dot at the end
+			# 	if len(lineAfter) < 100 and re.match(r'[A-Za-z][^.]*', lineAfter):
+			# 		output += "*" + lineAfter + "*\n"
+			# 		lineIndex += 2
+			output += "![" + altDescription + "](" + imageURL + ")\n"
+			if len(caption) > 0:
+				output += "*" + caption + "*"
+			lineIndex += 2
 	elif re.match(r'^[-*+]', inLine):
 		# it's a list item, check for description in next line
 		outLine = inLine.rstrip()
