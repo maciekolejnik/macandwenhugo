@@ -1,4 +1,4 @@
-baseURL = "http://macandwen.com/"
+baseURL = "https://macandwen.com/"
 languageCode = "en-us"
 title = "Mac & Wen"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
