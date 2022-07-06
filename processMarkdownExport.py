@@ -50,7 +50,7 @@ lineIndex = 1
 
 # skip any notion fields or empty lines
 strippedLine = mdInContent[lineIndex].rstrip()
-while lineIndex < totalLines and (len(strippedLine) == 0 or re.match(r'\w+: \w+', strippedLine)):
+while lineIndex < totalLines and (len(strippedLine) == 0 or re.match(r'(\w|\s)+: \S+', strippedLine)):
 	lineIndex += 1
 	strippedLine = mdInContent[lineIndex].rstrip()
 
@@ -79,6 +79,7 @@ while lineIndex < totalLines:
 			assert lineIndex+2 < totalLines # make sure there's a caption
 			# image caption should be of form 'text {{altDesc}}'
 			captionLine = mdInContent[lineIndex+2].rstrip()
+			print(captionLine)
 			captionMatch = re.match(r'(.*){{(.+)}}', captionLine)
 			assert captionMatch is not None
 			caption = captionMatch.group(1).rstrip()

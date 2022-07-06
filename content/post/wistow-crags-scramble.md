@@ -4,6 +4,7 @@ publishdate: "2020-06-18"
 date: "2020-05-22"
 featured_image: "https://macandwen-media.s3.eu-west-2.amazonaws.com/wistow-crags-scramble/cover.jpg"
 small_image: "https://macandwen-media.s3.eu-west-2.amazonaws.com/wistow-crags-scramble/small.jpg"
+summary: "A moderately difficult scramble in Lake District. Suitable for scrambling beginners/novices (ideally with some rock climbing experience) who are looking to verify and improve their protection techniques. No real exposure, many escape routes and easier alternatives. Good views at the top are a reward."
 ---
 
 

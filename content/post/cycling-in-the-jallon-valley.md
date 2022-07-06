@@ -4,6 +4,7 @@ publishdate: "2021-01-11"
 date: "2020-12-29"
 featured_image: "https://i.imgur.com/9TWITEN.jpg"
 small_image: "https://i.imgur.com/EUXP0D0.jpg"
+summary: "Easy ride in a beautiful setting, featuring vineyards, olive & almond trees, orange groves, charming pueblos and (most likely) great weather. Big chunk of the route follows quiet service roads and there are two short sections of gravel. Benigembla works great as a lunch break.*"
 ---
 
 *TL;DR Easy ride in a beautiful setting, featuring vineyards, olive & almond trees, orange groves, charming pueblos and (most likely) great weather. Big chunk of the route follows quiet service roads and there are two short sections of gravel. Benigembla works great as a lunch break.*

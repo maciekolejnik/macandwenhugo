@@ -4,6 +4,7 @@ publishdate: "2021-02-19"
 date: "2020-02-05"
 featured_image: "https://macandwen-media.s3.eu-west-2.amazonaws.com/el-realet-ridge/cover.jpeg"
 small_image: "https://macandwen-media.s3.eu-west-2.amazonaws.com/el-realet-ridge/small.jpeg"
+summary: "A short ridge with technical, enjoyable and, at times, very exposed scrambling. It features a few bolted abseils (up to 30m) and several tricky down-climbs and traverses. The difficult sections are bolted, but it's recommended to supplement this with own protection - 120cm slings are the most useful, a few cams and/or hexes would come handy too. A 60m rope is sufficient, but two 30m half ropes would be ideal. Overall, a great one day adventure conquering the three peaks of El Realet."
 ---
 
 

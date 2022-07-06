@@ -4,6 +4,7 @@ publishdate: "2021-01-12"
 date: "2021-01-02"
 featured_image: "https://i.imgur.com/vhhAUFu.jpg"
 small_image: "https://i.imgur.com/eI1A5Jo.jpg"
+summary: "A pleasant, hilly, 30km ride that avoids busy roads. Tyres wider than 28mm with a bit of thread recommended since route features sections of gravel. Decent views throughout."
 ---
 
 

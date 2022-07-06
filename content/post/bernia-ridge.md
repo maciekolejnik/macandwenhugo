@@ -4,6 +4,7 @@ publishdate: "2020-11-03"
 date: "2020-09-11"
 featured_image: "https://i.imgur.com/8mdFdDl.jpg"
 small_image: "https://i.imgur.com/9ziHO3c.jpg"
+summary: "A long, sustained scramble, with beautiful views throughout. A rope is needed (ideally, a skinny 50m) for abseils, there's one pitch of rock climbing (4+), bolted (~10 quickdraws needed). Nuts/cams not necessary. A few short, exposed sections, but mostly safe."
 ---
 
 *TL;DR A long, sustained scramble, with beautiful views throughout. A rope is needed (ideally, a skinny 50m) for abseils, there's one pitch of rock climbing (4+), bolted (~10 quickdraws needed). Nuts/cams not necessary. A few short, exposed sections, but mostly safe.*
