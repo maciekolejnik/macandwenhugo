@@ -34,7 +34,7 @@ Somewhat arbitrarily, we ended up booking accommodation in San Vicente de la Son
 ![View of a small town on a hill consisting of beige buildings, with an impressive castle on top of the hill](https://macandwen-media.s3.eu-west-2.amazonaws.com/la-rioja-22/P5060029.jpeg)
 *The towering castle in San Vicente de la Sonsierra*
 
-The best thing we did was certainly breakfast in the form of a *bocadillo con queso y jamon* (piece of bread with cheese and ham). Crucially, we didn’t order it in a restaurant but bought ingredients in a shop - *Carniceria Angel Monge* at *Plaza Mayor* right next to *Ayuntamiento* - and made the sandwiches on a bench nearby the shop. This way, it was fast, cheap and filling.
+The best thing we did was certainly breakfast in the form of a *bocadillo con jamón y queso* (piece of bread with cheese and ham). Crucially, we didn’t order it in a restaurant but bought ingredients in a shop - *Carnicería Angél Monge* at *Plaza Mayor* right next to *Ayuntamiento* - and made the sandwiches on a bench nearby the shop. This way, it was fast, cheap and filling.
 
 ![A woman sitting on a bench making a sandwich with town hall in the background](https://macandwen-media.s3.eu-west-2.amazonaws.com/la-rioja-22/P5070071.jpeg)
 *Preparation of the breakfast…*
